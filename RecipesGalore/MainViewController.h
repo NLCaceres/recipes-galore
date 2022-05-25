@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+@import GoogleSignIn;
 
-@interface ViewController : UIViewController
+@interface MainViewController : UIViewController
 
 
 @end
